@@ -1,3 +1,3 @@
 # OpenSrcSwPrj
 Open Source Software Project
-15학번 고상원
+git pull 테스트
